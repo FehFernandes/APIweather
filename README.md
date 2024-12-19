@@ -1,7 +1,7 @@
 # API de Previsão do Tempo com FastAPI
 
 <aside>
-Esta é uma API simples para consultar informações meteorológicas usando FastAPI e OpenWeatherMap.
+Esta é uma API para consultar informações meteorológicas usando FastAPI e OpenWeatherMap.
 
 </aside>
 
