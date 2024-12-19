@@ -65,16 +65,17 @@ Execute: `pip install -r requirements.txt`
 - Acesse a documentação: `http://127.0.0.1:8000/docs`
 - Teste a API executando o script test_request.py
 
-5. Atualizações Futuras
+### 4. Atualizações Futuras
+
 Desenvolver uma interface web para buscar informações meteorológicas especificas utilizando Next.js.
 
-### 4. Links Úteis
+### 5. Links Úteis
 
 - [Documentação FastAPI](https://fastapi.tiangolo.com/)
 - [Documentação OpenWeatherMap](https://openweathermap.org/api)
 - [Documentação Heroku](https://devcenter.heroku.com/)
 
-### 5. Codigos template
+### 6. Codigos template
 
 **main.py**
 
