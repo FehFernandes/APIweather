@@ -63,7 +63,10 @@ Execute: `pip install -r requirements.txt`
 
 - Inicie o servidor: `uvicorn main:app --reload`
 - Acesse a documentação: `http://127.0.0.1:8000/docs`
-- Teste a API usando o script fornecido
+- Teste a API executando o script test_request.py
+
+5. Atualizações Futuras
+Desenvolver uma interface web para buscar informações meteorológicas especificas utilizando Next.js.
 
 ### 4. Links Úteis
 
